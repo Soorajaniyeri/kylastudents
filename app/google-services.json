@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "21231619479",
+    "project_id": "studentmanagementkyla",
+    "storage_bucket": "studentmanagementkyla.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21231619479:android:d7b9da9c68fb78f91a88d2",
+        "android_client_info": {
+          "package_name": "com.example.studentmanage"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtJl6dTYn5oAM52TQzOo3NXoH0jVZ1Mf4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
